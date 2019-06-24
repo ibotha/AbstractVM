@@ -1,0 +1,7 @@
+push int8(60)
+push double(20)
+
+add
+print
+
+exit
